@@ -154,9 +154,9 @@
 punctuators = [';', ',', ':', '[', ']', '{', '}', '(', ')']
 operators = ['*', '/', '%', '+', '-', '<', '>', '&', 'or',
              'not', '>=', '<=', '!=', '==', '++', '+=', '=', '\\']
-keywords = ['boolean', 'char', 'float', 'int', 'string', 'agar', 'warna', 'elif', 'torna', 'jabtak', 'ke liye',
-            'private', 'protected', 'public', 'static', 'class', 'naya', 'khaali', 'dar-amad', 'tawseeh',
-            'supar', 'wapis', 'and', 'or', 'not']
+keywords = ['boolean', 'char', 'float', 'int', 'string', 'if', 'else', 'elif', 'break', 'jabtak', 'ke liye',
+            'private', 'protected', 'public', 'static', 'class', 'new', 'empty', 'dar-amad', 'tawseeh',
+            'supar', 'return', 'and', 'or', 'not']
 
 
 def split_and_read_file(filename):
